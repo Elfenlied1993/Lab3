@@ -18,7 +18,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using Color = Xamarin.Forms.Color;
 using Point = Xamarin.Forms.Point;
-
+using System.IO;
 namespace MyGoalsPlan.Pages
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
